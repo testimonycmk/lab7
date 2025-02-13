@@ -1,0 +1,23 @@
+h1 {
+    border-top: 2px gray solid;
+    border-bottom: 2px gray solid;
+}
+
+table,
+td,
+th {
+    border: 1px grey solid;
+}
+
+th {
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: rgb(51, 111, 202);
+}
+
+.format {
+    font-weight: bold;
+    color: rgb(51, 111, 202);
+    text-decoration: underline;
+    text-transform: uppercase;
+}
